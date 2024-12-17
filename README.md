@@ -111,6 +111,12 @@ Here are some resources I’m using to deepen my understanding:
 
 ---
 
+| Question           | Theory ✅ | Code Example ✅ | Notes/Insights 📝 |
+|--------------------|-------|-----------------|------------------|
+| Design Parking Lot |  [ParkingLot-Readme.md](src%2Fmain%2Fresources%2Fquestions%2Fparking-lot%2FParkingLot-Readme.md)     | [ ]             |                  |
+
+
+
 ## General rules to follow
 
 branch naming convention
